@@ -19,7 +19,11 @@ TASK2:WEBSITE TESTING
 
 
 --->pytest ui_tests.py -v
+
+
 And I installed  Chrome  and the matching ChromeDriver available in PATH.
+
+
 
 Test Design Choices
 
