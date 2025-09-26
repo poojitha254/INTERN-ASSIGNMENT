@@ -1,0 +1,10 @@
+For Load test:
+--->first install Locust: pip install locust
+--->Run the test: locust -f load_test.py
+--->Then browser get opened:
+     Host: https://reqres.in
+
+     Number of users: 5–10
+
+     Spawn rate: 1
+     start the test.
