@@ -1,0 +1,19 @@
+For Task1, the dependencies are :
+pytest
+requests
+locust(optional)
+For Task2, the dependencies are:
+selenium
+
+BRIEF EXPLANATION OF 2 TASKS
+
+Explanation:
+
+pytest → needed to run all your tests (Task 1 + Task 2).
+
+requests → for API testing (Task 1).
+
+selenium → for UI/browser automation (Task 2).
+
+locust → for load testing (Task 3, optional).
+y
